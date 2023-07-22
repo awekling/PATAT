@@ -20,14 +20,14 @@ Predicting Affective Tokens for Aspect Terms for tackling ABSA (PATAT)
 
 > The ABSA experimental performance statistics (% Accuracy) between the PATATs and the SOTA baselines.
 
-[![](/assets/comparisons.PNG "comparisons")][comparisons]
+[![](/assets/comparisons.png "comparisons")][comparisons]
 
 ***
 
 > The performance statistics (% Accuracy) of our PATAT variants and the SOTA baselines under the different
 few-shot learning settings. All results are averaged over 10 runs to maintain the experimental authenticity.
 
-[![](/assets/fewshotcomparisons.PNG "fewshot_comparisons")][fewshot_comparisons]
+[![](/assets/fewshotcomparisons.png "fewshot_comparisons")][fewshot_comparisons]
 
 ***
 
