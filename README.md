@@ -18,7 +18,7 @@ Predicting Affective Tokens for Aspect Terms for tackling ABSA (PATAT)
 
 ***
 
-> The ABSA experimental performance statistics (% Accuracy) between the WordsTransABSAs and the SOTA baselines.
+> The ABSA experimental performance statistics (% Accuracy) between the PATATs and the SOTA baselines.
 
 [![](/assets/comparisons.PNG "comparisons")][comparisons]
 
